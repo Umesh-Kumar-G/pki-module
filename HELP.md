@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.fonepay.pki-module' is invalid and this project uses 'com.fonepay.pkimodule' instead.
+* The original package name 'com.pki.pki-module' is invalid and this project uses 'com.pki.pkimodule' instead.
 
 # Getting Started
 

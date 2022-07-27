@@ -1,0 +1,7 @@
+com\pki\model\ClientRequest.class
+com\pki\constant\KeyConstant.class
+com\pki\model\ResponseFromServer.class
+com\pki\PKI\PKIProcessor.class
+com\pki\model\PKIResponseForRequest.class
+com\pki\model\ServerResponseRequest.class
+com\pki\model\PKIResponseForViberResponse.class
